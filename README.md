@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Quran Project
 
 🚀 🐼
 
