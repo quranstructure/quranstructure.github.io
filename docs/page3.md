@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Page3
 parent: Page2
 grand_parent: Page1

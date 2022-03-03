@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Page2
 parent: Page1
 has_children: true
