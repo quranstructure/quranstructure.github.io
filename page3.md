@@ -1,12 +1,8 @@
 ---
-layout: default
 title: Page3
-nav_order: 3
+parent: Page2
+grand_parent: Page1
+nav_order: 1
 ---
 
-# Page3
-
-This is Page3
-
-
-blah
+# I am a grand child of Page1
